@@ -278,6 +278,8 @@ Multi-agent coordination:
 ## Claude Skills
 
 Skills are specialized folders containing instructions, scripts, and resources that Claude dynamically discovers and loads.
+| **toprank** | SEO & Google Ads skills — meta tags, schema markup, keyword bids, CMS pushes | [GitHub](https://github.com/nowork-studio/toprank) |
+
 
 ### Official Skills
 
