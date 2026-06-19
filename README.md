@@ -301,6 +301,7 @@ Skills are specialized folders containing instructions, scripts, and resources t
 | **playwright-skill** | Browser automation and testing | Community |
 | **claude-d3js-skill** | D3.js data visualizations | Community |
 | **web-asset-generator** | Favicons, app icons, social media images | Community |
+| **nowork-studio/NotFair** | SEO, GEO, Google Ads, and Meta Ads skills for Claude Code; connects live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | [GitHub](https://github.com/nowork-studio/NotFair) |
 
 ---
 
